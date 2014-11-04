@@ -1,0 +1,38 @@
+.idea
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+node_modules
+bower_components
+.linker
+.bin
+
+npm-debug.log
+
+kns.txt
+Downloads
+kns.sqlite*
+setup.json
+
+# node-webkit files
+*.exe
+*.dll
+*.pak
+
+# Mac OS X file system
+.DS_Store
+# temporary files
+*~
+
+# Do not include in source control
+secrets.js
