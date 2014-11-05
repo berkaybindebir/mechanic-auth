@@ -1,7 +1,7 @@
 {
   "name": "mechanic-auth",
   "description": "Cookie | API authentication plugin with onPostAuth ACL roles and view injection",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Uğur Baltacı",
     "email": "ugur@kns.com.tr",
