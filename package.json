@@ -30,13 +30,6 @@
     "hoek": "^2.3.0",
     "lodash": "^2.4.1"
   },
-  "devDependencies": {
-    "hapi": "^7.2.0",
-    "lab": "^3.2.1"
-  },
-  "peerDependencies": {
-    "hapi": "^7.2.0"
-  },
   "licenses": [
     {
       "type": "BSD",
