@@ -1272,6 +1272,7 @@ describe("scheme", function () {
     });
 
     describe("additions to hapi-auth-cookie", function () {
+
         it("continue on optional no matter what", function (done) {
             var server = new Hapi.Server();
             server.connection();
